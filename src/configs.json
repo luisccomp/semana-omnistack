@@ -1,0 +1,6 @@
+{
+    "port": 3333,
+    "database": {
+        "mongodb": "mongodb+srv://<user>:<password>@cluster0-gbpur.azure.mongodb.net/week10?authSource=admin&replicaSet=Cluster0-shard-0&readPreference=primary&appname=MongoDB%20Compass&ssl=true"
+    }
+}
